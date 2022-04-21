@@ -1,3 +1,8 @@
+# author
+SAMI JIMOUH
+IRISI 2 2022
+CONDUITE PROJET
+
 # Face-Recognition
 Implementation of Multi Face Recognition using python, deep learning and OpenCV.
 
