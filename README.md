@@ -22,5 +22,4 @@ python faces_train.py
 python faces.py
 ```
 
-## Results
-![](assets/video.gif)
+
